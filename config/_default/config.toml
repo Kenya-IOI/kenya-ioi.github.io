@@ -48,3 +48,7 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
