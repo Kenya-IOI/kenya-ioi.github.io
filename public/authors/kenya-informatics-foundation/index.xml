@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenya Informatics Foundation</title>
+    <link>//localhost:1313/authors/kenya-informatics-foundation/</link>
+    <description>Recent content on Kenya Informatics Foundation</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>© 2025 Kenya Informatics Foundation.</copyright>
+    <atom:link href="//localhost:1313/authors/kenya-informatics-foundation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docs</title>
+      <link>//localhost:1313/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
