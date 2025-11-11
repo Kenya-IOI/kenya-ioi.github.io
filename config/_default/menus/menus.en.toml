@@ -38,12 +38,12 @@ title = "Made with ❤️ by the Hugo Bootstrap Theme team"
 # url = "page"
 # weight = 50
 
-[[social]]
-  name = "GitHub"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#github'/></svg>"
-  url = "https://github.com/filipecarneiro/hugo-bootstrap-theme/"
-  weight = 10
-  title = "Visit the GitHub project"
+# [[social]]
+#   name = "GitHub"
+#   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#github'/></svg>"
+#   url = "https://github.com/filipecarneiro/hugo-bootstrap-theme/"
+#   weight = 10
+#   title = "Visit the GitHub project"
 
 [[social]]
   name = "Twitter"
