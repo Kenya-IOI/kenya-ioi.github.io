@@ -6,8 +6,8 @@
 # https://schema.org/Thing
 # https://schema.org/Article
 description = "We host a national informatics competition designed to foster problem-solving skills and programming innovation among high school students aged 20 and under."
-images = ['images/logo.svg','images/site-feature-image.png']
-mainMenuLogo = "images/logo.svg"
+images = ['images/logo.svg','images/site-feature-image.png', 'images/logo_kif.png']
+mainMenuLogo = "images/logo_symbol.png"
 
 # For favicons
 ## Chrome Browser
